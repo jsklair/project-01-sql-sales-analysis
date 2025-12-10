@@ -42,12 +42,13 @@ Insights are actionable and easy for stakeholders to understand
 GitHub Pages displays the project in a polished and navigable way
 
 🧠 Skills Demonstrated
-Skill	How It Is Demonstrated
-SQL	Creating schema, joins, aggregates, customer segmentation, shipping delay analysis
-Excel	Pivot tables, charts, AOV calculations, trend analysis
-Statistics	Distributions, probability of repeat purchase, variance, averages
-Data Cleaning	Handling missing values, invalid dates, duplicates, type validation
-Python (optional)	Data loading, cleaning, EDA (future extension)
-Version Control	Branching, commits, documentation, repository structure
-Critical Thinking	Turning vague business needs into answerable analytical questions
-Communication	Selling insights through a clear stakeholder story on GitHub Pages
+| Skill | How It Is Demonstrated |
+|-------|-------------------------|
+| SQL | Creating schema, joins, aggregates, customer segmentation, shipping delay analysis |
+| Excel | Pivot tables, charts, AOV calculations, trend analysis |
+| Statistics | Distributions, probability of repeat purchase, variance, averages |
+| Data Cleaning | Handling missing values, invalid dates, duplicates, type validation |
+| Python (optional) | Data loading, cleaning, EDA, descriptive statistics |
+| Version Control | Branching, commits, documentation, repository structure |
+| Critical Thinking | Turning vague business questions into structured analysis steps |
+| Communication | Presenting insights clearly using GitHub Pages and visuals |

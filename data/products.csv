@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Phone Model A,Phone,195,529
+2,Phone Model B,Phone,182,499
+3,Laptop Model C,Laptop,540,949
+4,Laptop Model D,Laptop,505,899
+5,Audio Model E,Audio,19,79
+6,Audio Model F,Audio,17,69
+7,Accessory Model G,Accessory,6,24
+8,Accessory Model H,Accessory,7,26

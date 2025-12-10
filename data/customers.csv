@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,signup_date,region
+1,Aisha,Hughes,aisha.hughes1@example.com,2024-01-30,Wales
+2,Ben,Smith,ben.smith2@example.com,2024-02-19,South East
+3,Chloe,Wilson,chloe.wilson3@example.com,2024-03-10,London
+4,Daniel,Roberts,daniel.roberts4@example.com,2024-03-30,Northern Ireland
+5,Eleanor,Hughes,eleanor.hughes5@example.com,2024-04-19,Scotland
+6,Farah,Taylor,farah.taylor6@example.com,2024-05-09,South East
+7,George,Evans,george.evans7@example.com,2024-05-29,Midlands
+8,Holly,Thomas,holly.thomas8@example.com,2024-06-18,Wales
+9,Ibrahim,Roberts,ibrahim.roberts9@example.com,2024-07-08,London
+10,Jade,Johnson,jade.johnson10@example.com,2024-07-28,London
+11,Kai,Lee,kai.lee11@example.com,2024-08-17,Scotland
+12,Leah,Brown,leah.brown12@example.com,2024-09-06,South East

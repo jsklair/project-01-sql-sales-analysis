@@ -6,7 +6,7 @@ A portfolio project demonstrating SQL, Excel, data cleaning, statistics, and com
 
 ⭐ Overview
 
-This project simulates the role of a junior data analyst in an online retail business. Using synthetic data, I analyse sales performance, customer behaviour, product trends, and operational efficiency.
+This project simulates the role of a data analyst in an online retail business. Using synthetic data, I analyse sales performance, customer behaviour, product trends, and operational efficiency.
 
 The goal is to answer real business questions using SQL and Excel, then present clear insights and recommendations suitable for non-technical stakeholders.
 

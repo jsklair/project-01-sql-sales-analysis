@@ -1,10 +1,3 @@
----
-markdown: kramdown
-kramdown:
-  input: GFM
----
-
-
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
 
 📊 Online Retail Sales Analysis (Project 1)
@@ -49,6 +42,7 @@ Insights are actionable and easy for stakeholders to understand
 GitHub Pages displays the project in a polished and navigable way
 
 🧠 Skills Demonstrated
+
 | Skill | How It Is Demonstrated |
 |-------|-------------------------|
 | SQL | Creating schema, joins, aggregates, customer segmentation, shipping delay analysis |
